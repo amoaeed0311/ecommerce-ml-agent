@@ -1,0 +1,7 @@
+# Python bytecode and env
+__pycache__/
+*.pyc
+.env
+
+# Ignore temporary Power BI lock files
+*.tmp
